@@ -1,0 +1,61 @@
+
+body {
+    background:#000000
+}
+.container {
+background-color: darkblue;
+border-radius: 10px;
+padding: 20px;
+margin: 60px;
+text-align: center;
+width: 40%;
+border: 2px solid aqua;
+align-items: center;
+}
+
+h1 {
+background-color: aliceblue;
+box-shadow: 0 3px 5px;
+border-radius: 5px;
+text-align: center;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: dodgerblue;
+  }
+  #pw {
+    display: flex;
+    width: 100%;
+  }
+
+  #length {
+    display: flex;
+    width: 20%;
+    text-align: right;
+  }
+
+  input[type=checkbox] {
+    display: flex;
+    width: 10%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+
+  p {
+    font-weight: bold;
+    text-align: center;
+    color: aqua;
+ 
+  }
+
+  .generate {
+    margin: 40px;
+    background-color: yellowgreen;
+    border-radius: 5px;
+  }
